@@ -1,5 +1,7 @@
 ## Olá, eu sou o Lucas Hora, estudante da área de TI e Empresário varejista do ramo floricultor.
 
+<p align="center" ><img alt="Kiny-Painel" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
+
 <div align="center">
   <a href="https://github.com/LucasHRTeam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHRTeam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
