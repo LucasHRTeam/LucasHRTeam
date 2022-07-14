@@ -3,7 +3,7 @@
 <p align="center" ><img alt="Lucas-TheCoder" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
 ### Sobre mim:
-  - 📌  Idade: 19
+  - 📌  Idade: 19 anos
   - 📌  Escolaridade: Ensino superior
   - 📌  Cursando: Agronomia
 
