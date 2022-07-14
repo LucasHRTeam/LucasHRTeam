@@ -1,25 +1,25 @@
-## Olá, eu sou o Lucas Hora, estudante da área de TI e Empresário varejista do ramo floricultor.
+## Olá, eu sou o Lucas Hora, estudante da área de TI e Empresário.
 
 <p align="center" ><img alt="Lucas-TheCoder" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
 ### Sobre mim:
-  - 📌 Idade: 19
-  - 📌 Escolaridade: Ensino superior
-  - 📌 Cursando: Agronomia
+  - 📌  Idade: 19
+  - 📌  Escolaridade: Ensino superior
+  - 📌  Cursando: Agronomia
 
 ### Minhas Skills:
-  - 🎓 95,4% de fluência em JavaScript
-  - 📚 Nível intermediário-avançado em NodeJS
-  - 🖥 Facilidade na criação e uso de máquinas virtuais
-  - 🤖 Automação de conversas em diversas plataformas, como WhatsApp, Discord e Telegram
-  - 🧢 Nível médio em implementação das principais bibliotecas do NPM
+  - 🎓  95,4% de fluência em JavaScript
+  - 📚  Nível intermediário-avançado em NodeJS
+  - 🖥  Facilidade na criação e uso de máquinas virtuais
+  - 🤖  Automação de conversas em diversas plataformas, como WhatsApp, Discord e Telegram
+  - 🧢  Nível médio em implementação das principais bibliotecas do NPM
   
 ### Atualmente estou estudando:
-  - 📂 Clean Architecture
-  - 📚 Princípios do SOLID
-  - 🧢 TDD
-  - 💻 Typescript com Design Patterns
-  - 🐍 Python nível intermediário
+  - 📂  Clean Architecture
+  - 📚  Princípios do SOLID
+  - 🧢  TDD
+  - 💻  Typescript com Design Patterns
+  - 🐍  Python nível intermediário
 
 <div align="center">
   <a href="https://github.com/LucasHRTeam">
