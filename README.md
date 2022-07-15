@@ -19,7 +19,7 @@
   - 📚  Princípios do SOLID
   - 🧢  TDD
   - 💻  Typescript com Design Patterns
-  - 🐍  Python nível intermediário
+  - 🐍  Python nível básico
 
 <div align="center">
   <a href="https://github.com/LucasHRTeam">
