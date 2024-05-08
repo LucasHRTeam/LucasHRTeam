@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas Hora, estudante auto-ditada da área de TI, graduando em Agronomia e militar da Aeronáutica.
+## Olá, eu sou o Lucas Hora, estudante autoditada da área de TI, graduando em Agronomia e militar da Aeronáutica.
 
 <p align="center" ><img alt="Lucas-TheCoder" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
